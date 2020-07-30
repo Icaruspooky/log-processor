@@ -1,4 +1,4 @@
-# log-scan
+# log-processor
 
 Receives a log file input and prints XML containing relevant information about log file.
 
